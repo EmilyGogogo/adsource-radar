@@ -1,0 +1,13 @@
+# Only the files needed to run the system are tracked.
+/*
+!/.gitignore
+!/README.md
+!/server.py
+!/radar/
+!/web/
+!/requirements.txt
+!/requirements-cloud.txt
+!/requirements-vision-local.txt
+__pycache__/
+*.pyc
+.DS_Store
